@@ -1,7 +1,6 @@
 # helloWorld
 helloWorld package was created to exemplify GitHub and R Studio Integration.
 ### Note
-3
 Please consult this [link]( https://docs.github.com/en/get-started/writing-on-github/getting-started-
 with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for more information
 about formatting.
